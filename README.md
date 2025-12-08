@@ -1,2 +1,2 @@
 # 03
-This repository is intended for discussion items in https://dpenones.life
+This repository is intended for wiki pages in https://dpenones.life
