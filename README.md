@@ -1,2 +1,2 @@
 # 03
-This repository is intended for wiki pages in https://dpenones.life
+This repository is intended for blogs in https://dpenones.life
